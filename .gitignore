@@ -1,0 +1,42 @@
+# Generic Java/Spring Boot
+*.class
+# Package Files
+*.jar
+*.war
+*.ear
+# generated directory
+/generated
+# Maven
+target/
+pom.xml.tag
+pom.xml.versions
+pom.xml.bak
+pom.xml.releaseBackup
+# Gradle
+build/
+.gradle/
+# Log files
+*.log
+logs/
+
+# IDE-specific files
+# Eclipse
+.classpath
+.project
+.settings/
+# IntelliJ IDEA
+.idea/
+# VS Code
+.vscode/
+# NetBeans
+nbproject/
+# Temporary Files
+*.tmp
+*.bak
+*.swp
+*~.nib
+# OS-specific files
+.DS_Store # macOS
+Thumbs.db # Windows
+# Sensitive information (example)
+env.properties
